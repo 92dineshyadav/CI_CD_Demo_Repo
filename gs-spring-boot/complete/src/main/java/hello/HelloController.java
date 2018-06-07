@@ -8,7 +8,7 @@ public class HelloController {
     
     @RequestMapping("/")
     public String index() {
-        return "Updated message abc123ghihih!";
+        return "Webhook added to git!";
     }
     
 }
